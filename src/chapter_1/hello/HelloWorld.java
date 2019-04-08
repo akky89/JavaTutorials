@@ -2,6 +2,8 @@ package chapter_1.hello; // packages must be at the top
 
 // imports - need basis
 
+import chapter_2.classesandobjects.SecondClass;
+
 // any file - only public class
 // public class name should be file's name
 public class HelloWorld {
