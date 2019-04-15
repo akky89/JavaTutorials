@@ -10,7 +10,7 @@ public class Driver {
 //        System.out.println(obj.protVal);
 
         ThirdClass tObj = new ThirdClass();
-        int value = tObj.getVal1();
-        System.out.println(value);
+//        int value = tObj.getVal1();
+//        System.out.println(value);
     }
 }
